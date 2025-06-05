@@ -1,12 +1,13 @@
 [toolchain]
-package_manager = "yarn"
+package_manager = "npm"
+anchor_version = "0.31.1"
 
 [features]
 resolution = true
 skip-lint = false
 
 [programs.localnet]
-counter = "FqzkXZdwYjurnUKetJCAvaUw5WAqbwzU6gZEwydeEfqS"
+voting = "DenE1esqiAydZLirKcykhFKMKVxq825x8dYc1Vix89PY"
 
 [registry]
 url = "https://api.apr.dev"
@@ -17,3 +18,4 @@ wallet = "~/.config/solana/id.json"
 
 [scripts]
 test = "../node_modules/.bin/jest --preset ts-jest"
+

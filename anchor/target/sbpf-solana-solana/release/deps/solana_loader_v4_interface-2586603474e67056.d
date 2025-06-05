@@ -1,0 +1,9 @@
+/home/learnedprawn/Projects/voting/anchor/target/sbpf-solana-solana/release/deps/libsolana_loader_v4_interface-2586603474e67056.rmeta: /home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/home/learnedprawn/Projects/voting/anchor/target/sbpf-solana-solana/release/deps/libsolana_loader_v4_interface-2586603474e67056.rlib: /home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/home/learnedprawn/Projects/voting/anchor/target/sbpf-solana-solana/release/deps/solana_loader_v4_interface-2586603474e67056.d: /home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs /home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs /home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs
+
+/home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/lib.rs:
+/home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/instruction.rs:
+/home/learnedprawn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-loader-v4-interface-2.2.1/src/state.rs:
